@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="auto" height="auto" src="https://i.pinimg.com/originals/73/4f/b6/734fb6ed44aa280fe7546f7035363faf.gif">
-</p>
 
 <h1 align="center">Hi 👋, I'm Owden</h1>
 
@@ -35,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owgee&show_icons=true&locale=en" alt="owgee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=owgee&" alt="owgee" /></p>

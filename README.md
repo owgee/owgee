@@ -8,7 +8,7 @@
 <h3 align="left">Projects:</h3>
 - 🔭 Just finished working on [Equifax's Credit Score APD ML model](https://www.equifax.com/business/product/absolutepd-dataset/), and currently working on an LLM deepfake research paper reproducer and AgTech (AI-powered, Smart Farming Solution for Smallholder Farmers - based off of a similar project from 2019-2021, [IMAP4CA](https://kilimotrust.org/iringa-mitigation-adaptation-productivity-for-climate-smart-agriculture-imap4csa/))
 
-- 👨‍💻 Some of my projects are available at [https://owden.site](https://owden.site)
+- 👨‍💻 Some of my past software engineering and cloud projects are available at [https://owden.site](https://owden.site)
 
 <h3 align="left">Connect with me:</h3>
 - 📫 Talk to me: **consultancy [at] owden [dot] site**

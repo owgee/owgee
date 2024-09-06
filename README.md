@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/owden-godson/](https://www.linkedin.com/in/owden-godson/)
 
-- ⚡ Fun fact: **I don't like chewing :) | Cycled over 300 miles in 2 days**
+- ⚡ Fun fact: **I don't like chewing :) | Cycled over 350 miles in 2 days**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owgee&label=Profile%20views&color=0e75b6&style=flat" alt="owgee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=owgee" alt="owgee" /></a> </p>

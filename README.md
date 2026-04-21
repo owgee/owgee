@@ -1,6 +1,6 @@
 # Hey, I'm Owden 👋
 
-I build production AI systems at Zillow and technology that serves communities across East Africa. Agents with specs, traceability, and human gates — not just prompts. Reliable trumps clever.
+I build production AI systems at Zillow and technology that serves communities across East Africa. Agents with specs, traces, human gates, evals etc.
 
 ## `$ whoami`
 

@@ -9,7 +9,7 @@ I build production AI systems at Zillow and technology that serves communities a
 - 🌾 Built a climate-smart agriculture platform — 11,500+ farmers trained, 10,000+ plots mapped
 - 🏛️ Built Tanzania's national business registration system — launched at the statehouse by President Kikwete
 - 🎤 Speaker across 4 continents — Emory University, AIBO Beijing, CDAC Delhi
-- 🎓 Emory MSBA '24 · University of Dar es Salaam CS '14
+- 🎓 Emory MSBA '24 · University of Dar es Salaam CS & STAT '14
 
 ---
 
